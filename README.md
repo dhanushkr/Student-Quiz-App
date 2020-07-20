@@ -5,7 +5,7 @@ Simple Quiz App built with Flutter and Firebase for Authentication.
 ## Tabel of Contents
 
 1. [Installation](#installation)
-2. [File Description](#files)
+2. [Files Description](#files)
 3. [Running](#running)
 
 ## Installation <a name="installation"></a>
@@ -13,7 +13,7 @@ Simple Quiz App built with Flutter and Firebase for Authentication.
 The app is built using ```flutter```</br>
 Firebase authentication file must be obtained from Google Firebase and copy the file to the ios folder
 
-## File Descrption <a name="files"></a>
+## Files Description <a name="files"></a>
 Assests -  Consist of quiz files in json format
 ```
  [
