@@ -1,2 +1,2 @@
-# Student App
+# Student Quiz App
 
